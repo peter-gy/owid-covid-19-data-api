@@ -1,0 +1,14 @@
+{
+  "name": "Owid Covid Data REST API",
+  "description": "Exposing Covid data provided by OWID as a REST API",
+  "repository": "https://github.com/peter-gy/owid-covid-19-data-api",
+  "keywords": [
+    "python",
+    "docker",
+    "covid-19",
+    "fastapi",
+    "rest",
+    "api",
+    "owid"
+  ]
+}
