@@ -2,6 +2,7 @@
   "name": "Owid Covid Data REST API",
   "description": "Exposing Covid data provided by OWID as a REST API",
   "repository": "https://github.com/peter-gy/owid-covid-19-data-api",
+  "logo": "https://ourworldindata.org/apple-touch-icon.png",
   "keywords": [
     "python",
     "docker",
