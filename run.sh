@@ -1,1 +1,0 @@
-uvicorn owid_covid19_data_api.main:app
